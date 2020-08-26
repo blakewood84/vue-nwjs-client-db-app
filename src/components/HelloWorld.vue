@@ -4,7 +4,7 @@
       {{ msg }}
     </h1>
     <h3 data-test="versions">
-      You are using
+      You are using -- 
       Vue.js (v{{ vueVersion }}),
       NW.js (v{{ versions.nw }}-{{ versions['nw-flavor'] }}),
       Node.js (v{{ versions.node }}),
